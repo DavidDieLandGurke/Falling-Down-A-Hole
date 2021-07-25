@@ -1,2 +1,2 @@
 # Falling-Down-A-Hole
- A game about Falling a Hole down
+ A game about Falling down a Hole
